@@ -1,3 +1,6 @@
+# Release 1.6.9
+- Added the sad realization that we lied to you about this code being open source.
+
 # Release 1.2.0
 - Backwards compatible API with XeSS 1.0 & 1.1
 - Support for dynamic resolution scaling
